@@ -3,13 +3,14 @@ body
     background-color: black;
 }
 /*------------------------------------------------MAIN----------------------------------------*/
-#main
-{
+.main{
+    font-family: 'Trebuchet MS', sans-serif;
     background-image: url("./back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    height: 70vh;
 }
 
 .pro {
